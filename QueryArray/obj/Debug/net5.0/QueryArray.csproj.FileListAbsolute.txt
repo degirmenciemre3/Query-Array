@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\programlama\c#\QueryArray\QueryArray\bin\Debug\net5.0\QueryArray.exe
+C:\Users\User\Desktop\programlama\c#\QueryArray\QueryArray\bin\Debug\net5.0\QueryArray.deps.json
+C:\Users\User\Desktop\programlama\c#\QueryArray\QueryArray\bin\Debug\net5.0\QueryArray.runtimeconfig.json
+C:\Users\User\Desktop\programlama\c#\QueryArray\QueryArray\bin\Debug\net5.0\QueryArray.runtimeconfig.dev.json
+C:\Users\User\Desktop\programlama\c#\QueryArray\QueryArray\bin\Debug\net5.0\QueryArray.dll
+C:\Users\User\Desktop\programlama\c#\QueryArray\QueryArray\bin\Debug\net5.0\QueryArray.pdb
+C:\Users\User\Desktop\programlama\c#\QueryArray\QueryArray\obj\Debug\net5.0\QueryArray.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\programlama\c#\QueryArray\QueryArray\obj\Debug\net5.0\QueryArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\programlama\c#\QueryArray\QueryArray\obj\Debug\net5.0\QueryArray.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\programlama\c#\QueryArray\QueryArray\obj\Debug\net5.0\QueryArray.AssemblyInfo.cs
+C:\Users\User\Desktop\programlama\c#\QueryArray\QueryArray\obj\Debug\net5.0\QueryArray.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programlama\c#\QueryArray\QueryArray\obj\Debug\net5.0\QueryArray.dll
+C:\Users\User\Desktop\programlama\c#\QueryArray\QueryArray\obj\Debug\net5.0\refint\QueryArray.dll
+C:\Users\User\Desktop\programlama\c#\QueryArray\QueryArray\obj\Debug\net5.0\QueryArray.pdb
+C:\Users\User\Desktop\programlama\c#\QueryArray\QueryArray\obj\Debug\net5.0\QueryArray.genruntimeconfig.cache
+C:\Users\User\Desktop\programlama\c#\QueryArray\QueryArray\obj\Debug\net5.0\ref\QueryArray.dll
